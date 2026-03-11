@@ -3,11 +3,12 @@
 
 ## 使用步骤
 * 将本地的 SS/SSR/V2Ray/Trajan 客户端设置为「手动模式」，Clashx 客户端设置为全局连接
-* 在 Chrome/Edge 中安装 [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 插件
-* 在插件的设置中，点击「新增情景模式」-「代理服务器」，名字自己设置
-* 代理协议选择 SOCKS5，代理服务器 127.0.0.1，端口 1086（按梯子工具设置）
-* 点击「新增情景模式」-「自动切换」，名字自己设置
-* 默认情景模式设置为刚才设置的代理服务器
+* 在 Chrome/Edge 中安装 [SwitchyOmega](https://www.crxsoso.com/webstore/detail/onoegffbmcddafoabbeicpdebfjonkoj) 插件
+* 在左侧情景模式中，选择“proxy”
+* 代理协议选择 SOCKS5，代理服务器 127.0.0.1，端口按梯子工具设置
+* 在左侧情景模式中，选择“auto switch”
+* 先删除自带的所有规则
+* 默认情景模式设置为“proxy”
 * 点击「添加规则列表」，在规则列表网址，输入
 
 ``
