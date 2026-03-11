@@ -10,7 +10,6 @@
 * 先删除自带的所有规则
 * 默认情景模式设置为“proxy”
 * 点击「添加规则列表」，在规则列表网址，输入
-
 ``
 https://github.com/pluwen/china-domain-allowlist/raw/main/allow-list.sorl
 ``
