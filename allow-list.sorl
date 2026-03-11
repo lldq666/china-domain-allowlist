@@ -1,21 +1,30 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025/07/05
-; Author: Pluwen
+; Date: 2026/3/11
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
-; 内网 IP 地址段
+*.crxsoso.com
+*.cloudyouku.com
+*.xitek.com
+*.pinduoduo.com
+*.ultraiso.com
+*.lldq.cc
+!*.archive.org
+*.cloudflare-cn.com
+*.cloudflare.com
+*.scienceunited.org
+*.ctfile.com
+*.rainyun.com
+*.b23.tv
+*.jiandaoyun.com
+rewards.bing.com
+tr.lldq.cc
 10.*.*.*
 100.64.*.*
 127.*.*.*
 172.16.*.*
 192.168.*.*
-
-; cn 域名都不走代理
 *.cn
-
-; 国内部分网段不走代理
-
 1.1.8.*
 1.2.4.*
 1.8.1.*
@@ -1088,9 +1097,6 @@
 223.252.212.*
 223.252.221.*
 223.252.222.*
-
-
-; 其他域名
 *.00cdn.com
 *.0daydown.com
 *.0o0.ooo
@@ -2321,7 +2327,3 @@
 cn.bing.com
 *.toolwa.com
 *.webnote.cc
-
-
-
-
