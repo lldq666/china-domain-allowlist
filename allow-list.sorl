@@ -3,6 +3,19 @@
 ; Date: 2026/3/11
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+*.xiazaitool.com
+*.snapany.com
+*.overleaf.com
+*.temp-mail.org
+*.hydro.ac
+*.turbowarp.org
+*.benben.sbs
+*.kids123code.com
+*.histb.com
+*.ecoo.top
+*.rhymc.com
+*.ycltest.com
+
 *.crxsoso.com
 *.cloudyouku.com
 *.xitek.com
@@ -2327,3 +2340,4 @@ tr.lldq.cc
 cn.bing.com
 *.toolwa.com
 *.webnote.cc
+
